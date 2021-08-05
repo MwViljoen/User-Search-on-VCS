@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing snapshot of main App.js 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="header-container"
+  >
+    <h1>
+      Search by Username on GitHub, GitLab, BitBucket
+    </h1>
+  </div>
+  <form
+    className="form-container"
+    onSubmit={[Function]}
+  >
+    <fieldset>
+      <legend>
+        Add a Car
+      </legend>
+      <input
+        onChange={[Function]}
+        placeholder="Search by username"
+        required={true}
+        type="text"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Search
+      </button>
+    </fieldset>
+  </form>
+</div>
+`;

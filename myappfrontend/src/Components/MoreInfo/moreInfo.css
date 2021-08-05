@@ -1,0 +1,9 @@
+.repo-container>ul>li>a{
+    color: greenyellow;
+}
+
+.repo-container>ul{
+    list-style: none;
+    color: #ffd5c2;
+    font-size: 16px;
+}
