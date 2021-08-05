@@ -22,7 +22,7 @@ class Search extends Component {
         return (
             <form onSubmit={this.handleSearchButton} className="form-container">
                 <fieldset>
-                    <legend>Add a Car</legend>
+                    <legend>Search User</legend>
                     <input value={searchInputValue}
                            onChange={this.handleInput}
                            placeholder="Search by username"
